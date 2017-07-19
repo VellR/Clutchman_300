@@ -1,0 +1,27 @@
+{
+  "name": "clutchman_300",
+  "version": "0.0.0",
+  "description": "A kik bot specialized in event management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VellR/Clutchman_300.git"
+  },
+  "keywords": [
+    "Kikbot",
+    "planner",
+    "bot"
+  ],
+  "author": "Ivell Romas IV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VellR/Clutchman_300/issues"
+  },
+  "homepage": "https://github.com/VellR/Clutchman_300#readme",
+  "dependencies": {
+    "@kikinteractive/kik": "^2.2.1"
+  }
+}
