@@ -23,6 +23,7 @@ bot.onTextMessage((message) => {
   let output = messageFilter.mFilter(input)
 
   message.reply(output);
+
 });
 
 
